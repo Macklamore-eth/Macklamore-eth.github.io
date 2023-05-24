@@ -1,0 +1,19 @@
+.tabs {
+    cursor: pointer;
+  }
+  
+  @media (max-width: 670px) {
+    .project .nav.nav-pills {
+      width: 100%;
+    }
+    .project p {
+      color: #b8b8b8;
+      font-size: 18px;
+      letter-spacing: 0.8px;
+      line-height: 1.5em;
+      margin: 14px auto 30px auto;
+      text-align: center;
+      width: 90%;
+    }
+  }
+  

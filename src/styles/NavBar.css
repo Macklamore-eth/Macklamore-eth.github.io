@@ -1,0 +1,17 @@
+@media (max-width: 1024px) {
+    .nIcons {
+      display: none;
+    }
+  
+    .nFold {
+      display: flex;
+      flex-direction: row;
+      padding: 0;
+    }
+  
+    .nText {
+      justify-content: flex-start;
+      align-items: flex-start;
+    }
+  }
+  
